@@ -30,6 +30,9 @@ The system includes the following key features:
       </ul> 
    </li>
 </ol>
+<h2> Class Diagram </h2>
+![ApplianceClassDiagram](https://github.com/romylomy/Appliance-Search-Purchase-System/assets/115190653/8c67fed9-4607-41e6-8dee-34f23a1f9d6b)
+
 <h2> Usage </h2>
 To use the system, follow these steps:
 

@@ -1,0 +1,168 @@
+Welcome to Modern Appliances!
+How may we assist you?
+1 - Check out appliance
+2 - Find appliances by brand
+3 - Display appliances by type
+4 - Produce random appliance list
+5 - Save & exit
+
+1
+Enter item number:
+255131796
+Appliance 255131796 has been checked out.
+Welcome to Modern Appliances!
+How may we assist you?
+1 - Check out appliance
+2 - Find appliances by brand
+3 - Display appliances by type
+4 - Produce random appliance list
+5 - Save & exit
+
+1
+Enter item number:
+143826003
+The appliance is not available to be checked out.
+Welcome to Modern Appliances!
+How may we assist you?
+1 - Check out appliance
+2 - Find appliances by brand
+3 - Display appliances by type
+4 - Produce random appliance list
+5 - Save & exit
+
+1
+Enter item number:
+1234567895
+No appliances found with that item number.
+Welcome to Modern Appliances!
+How may we assist you?
+1 - Check out appliance
+2 - Find appliances by brand
+3 - Display appliances by type
+4 - Produce random appliance list
+5 - Save & exit
+
+2
+Enter brand to seach for:
+tefal
+Item Number: 535981394
+Brand: Tefal
+Quantity: 90
+Wattage: 700
+Color: bronze
+Price: 320
+Feature: Third Rack
+Sound Rating: Quietest
+Item Number: 243074424
+Brand: Tefal
+Quantity: 61
+Wattage: 4000
+Color: black
+Price: 760
+Grade: Residential
+Battery Voltage: Low
+There are no matching brands.
+Welcome to Modern Appliances!
+How may we assist you?
+1 - Check out appliance
+2 - Find appliances by brand
+3 - Display appliances by type
+4 - Produce random appliance list
+5 - Save & exit
+
+3
+Appliance Types
+1 - Refrigerators
+2 - Vacuums
+3 - Microwaves
+4 - Dishwashers
+
+1
+Enter number of doors: 2 (double door), 3 (three doors) or 4 (four doors):
+3
+Matching Refrigerators:
+Item Number: 146947171
+Brand: Black & Decker
+Quantity: 112
+Wattage: 1800
+Color: grey
+Price: 1800
+Number of Doors: Three Doors
+Height: 70
+Width: 31
+Item Number: 172911121
+Brand: Philips
+Quantity: 144
+Wattage: 700
+Color: black
+Price: 3100
+Number of Doors: Three Doors
+Height: 71
+Width: 30
+Welcome to Modern Appliances!
+How may we assist you?
+1 - Check out appliance
+2 - Find appliances by brand
+3 - Display appliances by type
+4 - Produce random appliance list
+5 - Save & exit
+
+3
+Appliance Types
+1 - Refrigerators
+2 - Vacuums
+3 - Microwaves
+4 - Dishwashers
+
+2
+Enter battery voltage value. 18 V (low) or 24 V (high)
+18
+Matching Vacuums:
+Item Number: 255131796
+Brand: Black & Decker
+Quantity: 54
+Wattage: 1500
+Color: white
+Price: 500
+Grade: Residential
+Battery Voltage: Low
+Item Number: 263788832
+Brand: Hoover
+Quantity: 59
+Wattage: 600
+Color: black
+Price: 750
+Grade: Residential
+Battery Voltage: Low
+Item Number: 231784690
+Brand: Russell Hobbs
+Quantity: 155
+Wattage: 175
+Color: grey
+Price: 380
+Grade: Residential
+Battery Voltage: Low
+Item Number: 243074424
+Brand: Tefal
+Quantity: 61
+Wattage: 4000
+Color: black
+Price: 760
+Grade: Residential
+Battery Voltage: Low
+Item Number: 240201796
+Brand: Dyson
+Quantity: 81
+Wattage: 1050
+Color: white
+Price: 290
+Grade: Residential
+Battery Voltage: Low
+Welcome to Modern Appliances!
+How may we assist you?
+1 - Check out appliance
+2 - Find appliances by brand
+3 - Display appliances by type
+4 - Produce random appliance list
+5 - Save & exit
+
